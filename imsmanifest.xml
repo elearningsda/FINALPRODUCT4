@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">MODUL 5 HIDROLIKA SUNGAI</langstring>
+          <langstring xml:lang="x-none">MODUL 5 Hidrolika Sungai</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="MODUL_5_HIDROLIKA_SUNGAI_ORG">
-    <organization identifier="MODUL_5_HIDROLIKA_SUNGAI_ORG">
-      <title>MODUL 5 HIDROLIKA SUNGAI</title>
+  <organizations default="MODUL_5_Hidrolika_Sungai_ORG">
+    <organization identifier="MODUL_5_Hidrolika_Sungai_ORG">
+      <title>MODUL 5 Hidrolika Sungai</title>
       <item identifier="MENTAHAN_SCO" isvisible="true" identifierref="__6NuPPplfvdi_course_id_RES">
-        <title>MODUL 5 HIDROLIKA SUNGAI</title>
+        <title>MODUL 5 Hidrolika Sungai</title>
         <adlcp:masteryscore>80</adlcp:masteryscore>
       </item>
     </organization>
