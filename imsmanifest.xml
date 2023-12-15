@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">MODUL 5 Hidrolika Sungai</langstring>
+          <langstring xml:lang="x-none">MODUL 5 HIDROLIKA SUNGAI</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="MODUL_5_Hidrolika_Sungai_ORG">
-    <organization identifier="MODUL_5_Hidrolika_Sungai_ORG">
-      <title>MODUL 5 Hidrolika Sungai</title>
+  <organizations default="MODUL_5_HIDROLIKA_SUNGAI_ORG">
+    <organization identifier="MODUL_5_HIDROLIKA_SUNGAI_ORG">
+      <title>MODUL 5 HIDROLIKA SUNGAI</title>
       <item identifier="MENTAHAN_SCO" isvisible="true" identifierref="__6NuPPplfvdi_course_id_RES">
-        <title>MODUL 5 Hidrolika Sungai</title>
+        <title>MODUL 5 HIDROLIKA SUNGAI</title>
         <adlcp:masteryscore>80</adlcp:masteryscore>
       </item>
     </organization>
@@ -125,8 +125,8 @@
       <file href="mobile/5nedN1esnid_80_DX212_DY212_CX144_CY144.png" />
       <file href="story_content/5nedN1esnid_80_DX214_DY214.swf" />
       <file href="mobile/5nedN1esnid_80_DX214_DY214_CX160_CY160.png" />
-      <file href="story_content/video_6M7zbtz4bBC_22_48_1280x720.mp4" />
-      <file href="mobile/poster_6fF3tUoZhW1_video_6M7zbtz4bBC_22_48_1280x720.jpg" />
+      <file href="story_content/video_6ohE3LhLqQe_22_48_1280x720.mp4" />
+      <file href="mobile/poster_5iGjmmBEr00_video_6ohE3LhLqQe_22_48_1280x720.jpg" />
       <file href="story_content/6nn0xZTy297_80_P_302_259_1427_793_DX3740_DY3740.swf" />
       <file href="mobile/6nn0xZTy297_80_P_302_259_1427_793_DX3740_DY3740_CX1428_CY793.png" />
       <file href="story_content/video_6BaV08p0KxW_22_48_1280x720.mp4" />
@@ -137,8 +137,8 @@
       <file href="mobile/poster_5tB5AF4c4d8_video_6Zh4v9oyPsu_22_48_1304x720.jpg" />
       <file href="story_content/video_6VRKfCT2oMG_22_48_1288x720.mp4" />
       <file href="mobile/poster_5arYeDzSk2G_video_6VRKfCT2oMG_22_48_1288x720.jpg" />
-      <file href="story_content/video_6X22R3m1kvu_22_48_1280x720.mp4" />
-      <file href="mobile/poster_6BS8dHYUbaw_video_6X22R3m1kvu_22_48_1280x720.jpg" />
+      <file href="story_content/video_5iDhJABCpZV_22_48_1280x720.mp4" />
+      <file href="mobile/poster_609j5LxqQ3x_video_5iDhJABCpZV_22_48_1280x720.jpg" />
       <file href="story_content/video_6QhoMZmgW0q_22_48_1280x720.mp4" />
       <file href="mobile/poster_5WQuuQZk2B1_video_6QhoMZmgW0q_22_48_1280x720.jpg" />
       <file href="meta.xml" />
